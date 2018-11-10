@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Molle', cursive;
+    font-size: 70px;
+}
+
+h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#devouredList {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#notDevouredList {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.create-form {
+    text-align: center;
+}
+
+#bpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: black 10px solid;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
